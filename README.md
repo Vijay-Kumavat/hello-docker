@@ -4,6 +4,8 @@ A hands-on learning repository for understanding Docker from a .NET Developer's 
 
 This repository is inspired by the YouTube course **Docker Full Course For .NET Developers [Youtube_Video](https://www.youtube.com/watch?v=cWMztQwIQNs)** by Julio Casal and serves as a personal learning notebook and quick revision guide.
 
+Free lab: [Docker - Kodeklound](https://kodekloud.com/studio/labs)
+
 ---
 
 # Table of Contents
